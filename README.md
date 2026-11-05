@@ -11,7 +11,7 @@
 
 Rodar um modelo pequeno de geração de imagens (sd-turbo, com Python e a biblioteca diffusers) em uma máquina do grupo, sem GPU se não houver.
 
-Os pesos do modelo ocupam uma memória fixa (a *base*). Cada imagem gerada junto reserva memória extra. Queremos medir quanto cada mudança custa e onde o modelo deixa de caber na RAM.
+Os pesos do modelo ocupam uma memória fixa (a base). Cada imagem gerada junto reserva memória extra. Queremos medir quanto cada mudança custa e onde o modelo deixa de caber na RAM.
 
 ## Hipótese
 
@@ -27,7 +27,7 @@ A memória cresce com o número de imagens simultâneas, o tempo por imagem melh
 
 ## Frentes de investigação
 
-Cada integrante muda uma variável, com o resto fixo.
+Cada um muda uma variável com o resto fixo.
 
 | # | Frente (variável) | Valores | O que mostra |
 |---|---|---|---|
@@ -37,6 +37,3 @@ Cada integrante muda uma variável, com o resto fixo.
 | 4 | **Tipo de dado dos pesos** | fp32, bf16 | O que a precisão custa em memória e em velocidade (análogo ao float32 e int8 do exemplo do Kindle) |
 | 5 | **Threads de CPU** | 1, 2, 4 e o número de processadores lógicos | O ganho de tempo até saturar os núcleos, com a memória constante |
 
-## Entrega de cada integrante
-
-Uma afirmação, um gráfico e um limite, defendidos na apresentação com o relatório aberto.
