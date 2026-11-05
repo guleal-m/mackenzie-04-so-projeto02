@@ -4,7 +4,7 @@
 
 ## Pilar e conceito
 
-- **Pilar do OSTEP:** virtualização de memória.
+- **Pilares do OSTEP:** virtualização de memória e concorrência.
 - **Conceito:** tipo de dado e tamanho em memória; swap e falta de página quando o modelo não cabe na RAM.
 
 ## O que vamos fazer
