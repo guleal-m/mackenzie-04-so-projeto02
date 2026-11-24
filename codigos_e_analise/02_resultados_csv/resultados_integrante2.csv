@@ -1,0 +1,13 @@
+rotulo,rodada,prompt,resolucao,lote,tempo_total_s,tempo_por_imagem_s,pico_vram_mb,pico_reservada_mb,folga_ate_o_limite_mb,pico_ram_mb,pico_energia_w,pico_temp_c
+256,1,a slice of chocolate cake on a white plate,256,1,0.282,0.282,2641.5,2764.0,3380.0,1642.6,39.2,75.0
+256,2,a slice of chocolate cake on a white plate,256,1,0.254,0.254,2641.5,2764.0,3380.0,1643.2,60.3,85.0
+256,3,a slice of chocolate cake on a white plate,256,1,0.227,0.227,2641.5,2764.0,3380.0,1643.4,69.4,85.0
+384,1,a slice of chocolate cake on a white plate,384,1,0.443,0.443,2831.5,3114.0,3030.0,1651.1,69.4,87.0
+384,2,a slice of chocolate cake on a white plate,384,1,0.386,0.386,2831.5,3114.0,3030.0,1651.2,65.9,87.0
+384,3,a slice of chocolate cake on a white plate,384,1,0.471,0.471,2831.5,3114.0,3030.0,1651.2,64.0,90.0
+512,1,a slice of chocolate cake on a white plate,512,1,0.668,0.668,3097.6,3646.0,2498.0,1709.0,64.0,90.0
+512,2,a slice of chocolate cake on a white plate,512,1,0.648,0.648,3097.6,3646.0,2498.0,1709.1,58.2,90.0
+512,3,a slice of chocolate cake on a white plate,512,1,0.662,0.662,3097.6,3646.0,2498.0,1709.1,56.8,91.0
+768,1,a slice of chocolate cake on a white plate,768,1,1.995,1.995,3857.8,5094.0,1050.0,1716.1,56.8,91.0
+768,2,a slice of chocolate cake on a white plate,768,1,2.023,2.023,3857.8,5094.0,1050.0,1716.1,50.0,90.0
+768,3,a slice of chocolate cake on a white plate,768,1,2.293,2.293,3857.8,5094.0,1050.0,1716.1,50.5,89.0
