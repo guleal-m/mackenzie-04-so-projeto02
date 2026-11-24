@@ -1,0 +1,13 @@
+rotulo,rodada,prompt,resolucao,lote,tempo_total_s,tempo_por_imagem_s,pico_vram_mb,pico_reservada_mb,folga_ate_o_limite_mb,pico_ram_mb,pico_energia_w,pico_temp_c
+bolo 256 x1,1,a slice of chocolate cake on a white plate,256,1,0.261,0.261,2641.5,2764.0,3380.0,1643.7,30.5,68.0
+bolo 256 x1,2,a slice of chocolate cake on a white plate,256,1,0.237,0.237,2641.5,2764.0,3380.0,1644.3,50.4,83.0
+bolo 256 x1,3,a slice of chocolate cake on a white plate,256,1,0.236,0.236,2641.5,2764.0,3380.0,1644.4,73.8,86.0
+farol 384 x2,1,"a lighthouse on a rocky cliff at sunset, dramatic clouds",384,2,0.674,0.337,3064.3,3702.0,2442.0,1704.7,73.8,88.0
+farol 384 x2,2,"a lighthouse on a rocky cliff at sunset, dramatic clouds",384,2,0.703,0.352,3064.3,3702.0,2442.0,1704.9,64.7,88.0
+farol 384 x2,3,"a lighthouse on a rocky cliff at sunset, dramatic clouds",384,2,0.746,0.373,3064.3,3702.0,2442.0,1705.0,65.8,89.0
+ponte 512 x4,1,an old stone bridge over a river,512,4,8.69,2.172,4537.1,6710.0,-566.0,3073.4,62.8,89.0
+ponte 512 x4,2,an old stone bridge over a river,512,4,9.808,2.452,4537.1,6710.0,-566.0,3346.3,57.0,90.0
+ponte 512 x4,3,an old stone bridge over a river,512,4,10.493,2.623,4537.1,6710.0,-566.0,3444.3,53.8,91.0
+girassol 768 x8,1,a close up of a sunflower against a blue sky,768,8,150.076,18.759,11708.6,11776.0,-5632.0,8729.8,56.1,93.0
+girassol 768 x8,2,a close up of a sunflower against a blue sky,768,8,161.774,20.222,11708.6,11776.0,-5632.0,8603.4,48.2,91.0
+girassol 768 x8,3,a close up of a sunflower against a blue sky,768,8,157.155,19.644,11708.6,11776.0,-5632.0,8236.6,56.9,94.0
